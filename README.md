@@ -4,14 +4,13 @@
 
 ## This Package is Prepared by: **Dr Mike Lakoju**
 
-Install
+**Install**
 ```
-**`pip install git+ssh://git@github.com/mikelakoju/preprocess_nlp_mikelakoju.git`**
+pip install git+ssh://git@github.com/mikelakoju/preprocess_nlp_mikelakoju.git
 ```
-Uninstall
+**Uninstall**
 ```
-**`pip uninstall preprocess_nlp_mikelakoju`**
-
+pip uninstall preprocess_nlp_mikelakoju
 ```
 ### General Feature Extraction
 
